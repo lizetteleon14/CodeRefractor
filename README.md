@@ -1,2 +1,1 @@
-# CodeRefractor
-Challenge 1 Assignement 
+# Code Refactor Starter Code

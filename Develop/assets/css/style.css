@@ -65,13 +65,15 @@ header a {
     font-size: 16px;
 }
 
-.text-left {
-    text-align: left;
-  }
-  
-.text-right {
-    text-align: right;
-  }
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
 
 .options {
         width: 75%;
@@ -90,8 +92,6 @@ header a {
 
 .option img {
         max-height: 200px;
-        float: left;
-        width: 30%
     }
 
 .option h2 {
